@@ -1,5 +1,6 @@
 # app.py
-WEBHOOK_URL = "COLLEZ_VOTRE_CLE_OU_WEBHOOK_ACTIF_ICI"
+API_KEY = "***REDACTED_SECRET***"
+WEBHOOK_URL = "***REDACTED_SECRET***"
 
 def notify():
     print("Sending alert...")
